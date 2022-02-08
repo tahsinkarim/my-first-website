@@ -220,6 +220,7 @@ h3 {
   padding: 10px var(--fs-body);
   font-family: var(--ff-secondary);
   background: var(--color-bg);
+  overflow-x: hidden;
 }
 .navbar .max-width {
   display: flex;
