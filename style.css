@@ -456,6 +456,9 @@ h3.intro__subtitle {
   .about__right {
     width: auto;
   }
+  .about__right img {
+    opacity: 1;
+  }
 }
 
 /* My Projects */
